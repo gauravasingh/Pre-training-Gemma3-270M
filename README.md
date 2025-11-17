@@ -13,4 +13,3 @@ This repository contains a from-scratch implementation of a Small Language Model
 - **Inference**: Generate text from prompts using top-k sampling and temperature control.
 - **Dataset**: Uses the [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) dataset from Hugging Face.
 
-## Project Structure
